@@ -1,0 +1,7 @@
+.menu-lateral{
+    display: flex;
+    flex-direction: column;
+}
+.menu-lateral__logo{
+    align-self: center;
+}
